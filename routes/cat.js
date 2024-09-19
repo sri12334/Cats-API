@@ -1,7 +1,6 @@
 import express from 'express';
 import catController from '../controllers/cat.js';
 
-
 const router = express.Router();
 
 // GET all cats
